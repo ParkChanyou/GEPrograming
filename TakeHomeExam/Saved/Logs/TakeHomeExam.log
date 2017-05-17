@@ -199,3 +199,75 @@ LogInit: Object subsystem initialized
 [2017.05.17-17.54.04:586][  1]LogAssetRegistry: Asset discovery search completed in 13.5106 seconds
 [2017.05.17-17.54.04:586][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000003 seconds (found 0 objects)
 [2017.05.17-17.54.04:586][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000018 seconds (updated 0 objects)
+[2017.05.17-17.54.26:892][524]LogSlate: Took 0.000334 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.05.17-17.54.30:444][631]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0009 seconds. Added 112 classes and 0 folders.
+[2017.05.17-17.54.31:045][631]LogSlate: Took 0.000330 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.05.17-17.54.31:210][632]LogRenderer: Reallocating scene render targets to support 1208x672 NumSamples 1 (Frame:380).
+[2017.05.17-17.54.32:213][678]LogSlate: Took 0.000423 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2017.05.17-17.54.33:565][751]LogSlate: Took 0.000400 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.05.17-17.55.12:853][ 23]BlueprintLog: New page: Compile HeroBP
+[2017.05.17-17.55.13:494][ 28]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Hero/HeroBP" FILE="../../../../../../Users/ChanU/Desktop/2017_1Term/GEPrograming/TakeHomeExam/Content/Hero/HeroBP.uasset" SILENT=true
+[2017.05.17-17.55.13:521][ 28]LogSavePackage: Save=24.87ms
+[2017.05.17-17.55.13:521][ 28]LogSavePackage: Moving '../../../../../../Users/ChanU/Desktop/2017_1Term/GEPrograming/TakeHomeExam/Saved/HeroBP7148BB164FEDBB00949446AED9F80378.tmp' to '../../../../../../Users/ChanU/Desktop/2017_1Term/GEPrograming/TakeHomeExam/Content/Hero/HeroBP.uasset'
+[2017.05.17-17.55.13:523][ 28]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/ChanU/Desktop/2017_1Term/GEPrograming/TakeHomeExam/Content/Hero/HeroBP.uasset
+[2017.05.17-17.55.13:791][ 43]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Hero/HeroBP" FILE="../../../../../../Users/ChanU/Desktop/2017_1Term/GEPrograming/TakeHomeExam/Content/Hero/HeroBP.uasset" SILENT=true
+[2017.05.17-17.55.13:810][ 43]LogSavePackage: Save=16.44ms
+[2017.05.17-17.55.13:810][ 43]LogSavePackage: Moving '../../../../../../Users/ChanU/Desktop/2017_1Term/GEPrograming/TakeHomeExam/Saved/HeroBP6A4C5BE24BC6CC5E3A6C00AB832684D9.tmp' to '../../../../../../Users/ChanU/Desktop/2017_1Term/GEPrograming/TakeHomeExam/Content/Hero/HeroBP.uasset'
+[2017.05.17-17.55.13:812][ 43]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/ChanU/Desktop/2017_1Term/GEPrograming/TakeHomeExam/Content/Hero/HeroBP.uasset
+[2017.05.17-17.55.14:319][ 73]LogSlate: Took 0.000304 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2017.05.17-17.55.23:296][577]LogSlate: Took 0.000282 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2017.05.17-17.56.12:040][349]BlueprintLog: New page: Compile HeroBP
+[2017.05.17-17.56.12:549][352]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Hero/HeroBP" FILE="../../../../../../Users/ChanU/Desktop/2017_1Term/GEPrograming/TakeHomeExam/Content/Hero/HeroBP.uasset" SILENT=true
+[2017.05.17-17.56.12:580][352]LogSavePackage: Save=28.05ms
+[2017.05.17-17.56.12:580][352]LogSavePackage: Moving '../../../../../../Users/ChanU/Desktop/2017_1Term/GEPrograming/TakeHomeExam/Saved/HeroBP0B15246349C9DA9DB1EBD1B11BC9DCBC.tmp' to '../../../../../../Users/ChanU/Desktop/2017_1Term/GEPrograming/TakeHomeExam/Content/Hero/HeroBP.uasset'
+[2017.05.17-17.56.12:582][352]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/ChanU/Desktop/2017_1Term/GEPrograming/TakeHomeExam/Content/Hero/HeroBP.uasset
+[2017.05.17-17.56.27:857][ 39]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0006 seconds. Added 1 classes and 2 folders.
+[2017.05.17-17.56.27:977][ 39]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_5:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2017.05.17-17.56.28:013][ 39]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_5:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2017.05.17-17.56.56:690][512]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Hero/HeroLocomotionBlend" FILE="../../../../../../Users/ChanU/Desktop/2017_1Term/GEPrograming/TakeHomeExam/Content/Hero/HeroLocomotionBlend.uasset" SILENT=true
+[2017.05.17-17.56.56:705][512]LogSavePackage: Save=13.06ms
+[2017.05.17-17.56.56:705][512]LogSavePackage: Moving '../../../../../../Users/ChanU/Desktop/2017_1Term/GEPrograming/TakeHomeExam/Saved/HeroLocomotionBlend64AEA77D42681767DE0E85A6003C82C6.tmp' to '../../../../../../Users/ChanU/Desktop/2017_1Term/GEPrograming/TakeHomeExam/Content/Hero/HeroLocomotionBlend.uasset'
+[2017.05.17-17.56.56:707][512]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/ChanU/Desktop/2017_1Term/GEPrograming/TakeHomeExam/Content/Hero/HeroLocomotionBlend.uasset
+[2017.05.17-17.57.31:761][227]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Hero/HeroLocomotionBlend" FILE="../../../../../../Users/ChanU/Desktop/2017_1Term/GEPrograming/TakeHomeExam/Content/Hero/HeroLocomotionBlend.uasset" SILENT=true
+[2017.05.17-17.57.31:770][227]LogSavePackage: Save=4.43ms
+[2017.05.17-17.57.31:770][227]LogSavePackage: Moving '../../../../../../Users/ChanU/Desktop/2017_1Term/GEPrograming/TakeHomeExam/Saved/HeroLocomotionBlend561355144E8835F5556D62B900C8F341.tmp' to '../../../../../../Users/ChanU/Desktop/2017_1Term/GEPrograming/TakeHomeExam/Content/Hero/HeroLocomotionBlend.uasset'
+[2017.05.17-17.57.31:771][227]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/ChanU/Desktop/2017_1Term/GEPrograming/TakeHomeExam/Content/Hero/HeroLocomotionBlend.uasset
+[2017.05.17-17.57.43:655][618]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_10:PersistentLevel.Actor_1.DebugSkelMeshComponent_2) Already registered. Aborting.
+[2017.05.17-17.57.43:890][618]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_10:PersistentLevel.Actor_1.DebugSkelMeshComponent_2) - call TermArticulated first.
+[2017.05.17-17.58.09:748][ 91]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Hero/HeroAnimBP" FILE="../../../../../../Users/ChanU/Desktop/2017_1Term/GEPrograming/TakeHomeExam/Content/Hero/HeroAnimBP.uasset" SILENT=true
+[2017.05.17-17.58.09:766][ 91]LogSavePackage: Save=16.11ms
+[2017.05.17-17.58.09:766][ 91]LogSavePackage: Moving '../../../../../../Users/ChanU/Desktop/2017_1Term/GEPrograming/TakeHomeExam/Saved/HeroAnimBPBC026748401DF2F1ABF7F18DA56BFD5E.tmp' to '../../../../../../Users/ChanU/Desktop/2017_1Term/GEPrograming/TakeHomeExam/Content/Hero/HeroAnimBP.uasset'
+[2017.05.17-17.58.09:768][ 91]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/ChanU/Desktop/2017_1Term/GEPrograming/TakeHomeExam/Content/Hero/HeroAnimBP.uasset
+[2017.05.17-17.58.14:933][391]BlueprintLog: New page: Compile HeroAnimBP
+[2017.05.17-17.58.15:779][433]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Hero/HeroAnimBP" FILE="../../../../../../Users/ChanU/Desktop/2017_1Term/GEPrograming/TakeHomeExam/Content/Hero/HeroAnimBP.uasset" SILENT=true
+[2017.05.17-17.58.15:799][433]LogSavePackage: Save=16.38ms
+[2017.05.17-17.58.15:799][433]LogSavePackage: Moving '../../../../../../Users/ChanU/Desktop/2017_1Term/GEPrograming/TakeHomeExam/Saved/HeroAnimBP40E266D141296E4C53EC8FAB6EEDB641.tmp' to '../../../../../../Users/ChanU/Desktop/2017_1Term/GEPrograming/TakeHomeExam/Content/Hero/HeroAnimBP.uasset'
+[2017.05.17-17.58.15:802][433]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/ChanU/Desktop/2017_1Term/GEPrograming/TakeHomeExam/Content/Hero/HeroAnimBP.uasset
+[2017.05.17-17.59.15:116][854]BlueprintLog: New page: Compile HeroAnimBP
+[2017.05.17-17.59.20:653][ 95]LogSlate:Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2017.05.17-17.59.22:579][204]BlueprintLog: New page: Compile HeroBP
+[2017.05.17-17.59.23:190][209]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Hero/HeroBP" FILE="../../../../../../Users/ChanU/Desktop/2017_1Term/GEPrograming/TakeHomeExam/Content/Hero/HeroBP.uasset" SILENT=true
+[2017.05.17-17.59.23:221][209]LogSavePackage: Save=28.38ms
+[2017.05.17-17.59.23:221][209]LogSavePackage: Moving '../../../../../../Users/ChanU/Desktop/2017_1Term/GEPrograming/TakeHomeExam/Saved/HeroBP85393D5F4CD17B71962DC9B7BBCB2130.tmp' to '../../../../../../Users/ChanU/Desktop/2017_1Term/GEPrograming/TakeHomeExam/Content/Hero/HeroBP.uasset'
+[2017.05.17-17.59.23:224][209]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/ChanU/Desktop/2017_1Term/GEPrograming/TakeHomeExam/Content/Hero/HeroBP.uasset
+[2017.05.17-17.59.33:167][689]LogSlate:Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2017.05.17-17.59.35:789][845]BlueprintLog: New page: Compile ShooterGameMode
+[2017.05.17-17.59.36:318][865]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ShooterGameMode" FILE="../../../../../../Users/ChanU/Desktop/2017_1Term/GEPrograming/TakeHomeExam/Content/ShooterGameMode.uasset" SILENT=true
+[2017.05.17-17.59.36:327][865]LogSavePackage: Save=8.00ms
+[2017.05.17-17.59.36:327][865]LogSavePackage: Moving '../../../../../../Users/ChanU/Desktop/2017_1Term/GEPrograming/TakeHomeExam/Saved/ShooterGameModeC0EC9E924F2C0666A4304297BC922139.tmp' to '../../../../../../Users/ChanU/Desktop/2017_1Term/GEPrograming/TakeHomeExam/Content/ShooterGameMode.uasset'
+[2017.05.17-17.59.36:330][865]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/ChanU/Desktop/2017_1Term/GEPrograming/TakeHomeExam/Content/ShooterGameMode.uasset
+[2017.05.17-17.59.55:919][ 25]BlueprintLog: New page: Compile ShooterGameMode
+[2017.05.17-17.59.56:396][ 42]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ShooterGameMode" FILE="../../../../../../Users/ChanU/Desktop/2017_1Term/GEPrograming/TakeHomeExam/Content/ShooterGameMode.uasset" SILENT=true
+[2017.05.17-17.59.56:408][ 42]LogSavePackage: Save=8.24ms
+[2017.05.17-17.59.56:408][ 42]LogSavePackage: Moving '../../../../../../Users/ChanU/Desktop/2017_1Term/GEPrograming/TakeHomeExam/Saved/ShooterGameMode9D17C45F4047FE58882C23A730F9EBC0.tmp' to '../../../../../../Users/ChanU/Desktop/2017_1Term/GEPrograming/TakeHomeExam/Content/ShooterGameMode.uasset'
+[2017.05.17-17.59.56:410][ 42]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/ChanU/Desktop/2017_1Term/GEPrograming/TakeHomeExam/Content/ShooterGameMode.uasset
+[2017.05.17-18.00.14:661][115]BlueprintLog: New page: Compile ShooterGameMode
+[2017.05.17-18.00.15:106][133]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ShooterGameMode" FILE="../../../../../../Users/ChanU/Desktop/2017_1Term/GEPrograming/TakeHomeExam/Content/ShooterGameMode.uasset" SILENT=true
+[2017.05.17-18.00.15:119][133]LogSavePackage: Save=10.35ms
+[2017.05.17-18.00.15:119][133]LogSavePackage: Moving '../../../../../../Users/ChanU/Desktop/2017_1Term/GEPrograming/TakeHomeExam/Saved/ShooterGameModeD3B5F7D24ECC48F163058087924FD804.tmp' to '../../../../../../Users/ChanU/Desktop/2017_1Term/GEPrograming/TakeHomeExam/Content/ShooterGameMode.uasset'
+[2017.05.17-18.00.15:122][133]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/ChanU/Desktop/2017_1Term/GEPrograming/TakeHomeExam/Content/ShooterGameMode.uasset
+[2017.05.17-18.00.31:818][110]BlueprintLog: New page: Compile ShooterGameMode
+[2017.05.17-18.00.32:417][137]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ShooterGameMode" FILE="../../../../../../Users/ChanU/Desktop/2017_1Term/GEPrograming/TakeHomeExam/Content/ShooterGameMode.uasset" SILENT=true
+[2017.05.17-18.00.32:432][137]LogSavePackage: Save=12.26ms
+[2017.05.17-18.00.32:432][137]LogSavePackage: Moving '../../../../../../Users/ChanU/Desktop/2017_1Term/GEPrograming/TakeHomeExam/Saved/ShooterGameMode00EBAABD43ED5D04F5AC119777CA1E7A.tmp' to '../../../../../../Users/ChanU/Desktop/2017_1Term/GEPrograming/TakeHomeExam/Content/ShooterGameMode.uasset'
+[2017.05.17-18.00.32:435][137]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/ChanU/Desktop/2017_1Term/GEPrograming/TakeHomeExam/Content/ShooterGameMode.uasset
