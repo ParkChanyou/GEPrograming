@@ -696,3 +696,53 @@ Using Interface DamageInterface_C  must have a valid target or reference to self
 [2017.05.17-18.17.41:988][522]LogSavePackage: Save=36.19ms
 [2017.05.17-18.17.41:988][522]LogSavePackage: Moving '../../../../../../Users/ChanU/Desktop/2017_1Term/GEPrograming/TakeHomeExam/Saved/NewMap7730FFEE444B070BD72E36A8F3F9EDE2.tmp' to '../../../../../../Users/ChanU/Desktop/2017_1Term/GEPrograming/TakeHomeExam/Content/Maps/NewMap.umap'
 [2017.05.17-18.17.41:989][522]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/ChanU/Desktop/2017_1Term/GEPrograming/TakeHomeExam/Content/Maps/NewMap.umap
+[2017.05.17-18.18.52:054][909]BlueprintLog: New page: Compile EnemyAIController
+[2017.05.17-18.18.52:558][927]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemy/EnemyAIController" FILE="../../../../../../Users/ChanU/Desktop/2017_1Term/GEPrograming/TakeHomeExam/Content/Enemy/EnemyAIController.uasset" SILENT=true
+[2017.05.17-18.18.52:567][927]LogSavePackage: Save=8.34ms
+[2017.05.17-18.18.52:567][927]LogSavePackage: Moving '../../../../../../Users/ChanU/Desktop/2017_1Term/GEPrograming/TakeHomeExam/Saved/EnemyAIControllerAE366D7345282D6D5AC693BAE90A0FF5.tmp' to '../../../../../../Users/ChanU/Desktop/2017_1Term/GEPrograming/TakeHomeExam/Content/Enemy/EnemyAIController.uasset'
+[2017.05.17-18.18.52:570][927]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/ChanU/Desktop/2017_1Term/GEPrograming/TakeHomeExam/Content/Enemy/EnemyAIController.uasset
+[2017.05.17-18.19.45:806][980]BlueprintLog: New page: Compile ShooterGameMode
+[2017.05.17-18.19.46:407][994]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ShooterGameMode" FILE="../../../../../../Users/ChanU/Desktop/2017_1Term/GEPrograming/TakeHomeExam/Content/ShooterGameMode.uasset" SILENT=true
+[2017.05.17-18.19.46:424][994]LogSavePackage: Save=12.69ms
+[2017.05.17-18.19.46:424][994]LogSavePackage: Moving '../../../../../../Users/ChanU/Desktop/2017_1Term/GEPrograming/TakeHomeExam/Saved/ShooterGameModeD7E23BF44235CAAD3E1EE98AF315478F.tmp' to '../../../../../../Users/ChanU/Desktop/2017_1Term/GEPrograming/TakeHomeExam/Content/ShooterGameMode.uasset'
+[2017.05.17-18.19.46:426][994]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/ChanU/Desktop/2017_1Term/GEPrograming/TakeHomeExam/Content/ShooterGameMode.uasset
+[2017.05.17-18.20.00:549][789]BlueprintLog: New page: Compile ShooterGameMode
+[2017.05.17-18.20.01:117][805]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ShooterGameMode" FILE="../../../../../../Users/ChanU/Desktop/2017_1Term/GEPrograming/TakeHomeExam/Content/ShooterGameMode.uasset" SILENT=true
+[2017.05.17-18.20.01:134][805]LogSavePackage: Save=13.76ms
+[2017.05.17-18.20.01:134][805]LogSavePackage: Moving '../../../../../../Users/ChanU/Desktop/2017_1Term/GEPrograming/TakeHomeExam/Saved/ShooterGameMode0719E81049AA8486066762A411CF0369.tmp' to '../../../../../../Users/ChanU/Desktop/2017_1Term/GEPrograming/TakeHomeExam/Content/ShooterGameMode.uasset'
+[2017.05.17-18.20.01:137][805]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/ChanU/Desktop/2017_1Term/GEPrograming/TakeHomeExam/Content/ShooterGameMode.uasset
+[2017.05.17-18.21.09:251][615]BlueprintLog: New page: Compile NewMap
+[2017.05.17-18.22.19:422][347]BlueprintLog: New page: Compile EnemyAIController
+[2017.05.17-18.22.19:429][347]LogBlueprint:Error: [Compiler EnemyAIController] Error Message node  Decrease HP
+Using Interface DamageInterface_C  must have a valid target or reference to self.
+[2017.05.17-18.22.19:664][347]BlueprintEditorCompileResults:Error: Error Message node  Decrease HP
+Using Interface DamageInterface_C  must have a valid target or reference to self.
+[2017.05.17-18.22.19:665][347]LogBlueprint:Warning: [Compiler EnemyAIController] Warning [1717.53] Compile of EnemyAIController failed. 1 Fatal Issue(s) 0 Warning(s) [in 242 ms] (/Game/Enemy/EnemyAIController.EnemyAIController)
+[2017.05.17-18.22.20:203][364]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemy/EnemyAIController" FILE="../../../../../../Users/ChanU/Desktop/2017_1Term/GEPrograming/TakeHomeExam/Content/Enemy/EnemyAIController.uasset" SILENT=true
+[2017.05.17-18.22.20:220][364]LogSavePackage: Save=11.89ms
+[2017.05.17-18.22.20:220][364]LogSavePackage: Moving '../../../../../../Users/ChanU/Desktop/2017_1Term/GEPrograming/TakeHomeExam/Saved/EnemyAIControllerFA2D9A7C46648F9D929E94A825BFFAF8.tmp' to '../../../../../../Users/ChanU/Desktop/2017_1Term/GEPrograming/TakeHomeExam/Content/Enemy/EnemyAIController.uasset'
+[2017.05.17-18.22.20:222][364]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/ChanU/Desktop/2017_1Term/GEPrograming/TakeHomeExam/Content/Enemy/EnemyAIController.uasset
+[2017.05.17-18.22.23:324][546]BlueprintLog: New page: Compile EnemyAIController
+[2017.05.17-18.22.23:869][568]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemy/EnemyAIController" FILE="../../../../../../Users/ChanU/Desktop/2017_1Term/GEPrograming/TakeHomeExam/Content/Enemy/EnemyAIController.uasset" SILENT=true
+[2017.05.17-18.22.23:885][568]LogSavePackage: Save=12.71ms
+[2017.05.17-18.22.23:885][568]LogSavePackage: Moving '../../../../../../Users/ChanU/Desktop/2017_1Term/GEPrograming/TakeHomeExam/Saved/EnemyAIController6FC045B9487925EC399AE5ACD18B007B.tmp' to '../../../../../../Users/ChanU/Desktop/2017_1Term/GEPrograming/TakeHomeExam/Content/Enemy/EnemyAIController.uasset'
+[2017.05.17-18.22.23:887][568]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/ChanU/Desktop/2017_1Term/GEPrograming/TakeHomeExam/Content/Enemy/EnemyAIController.uasset
+[2017.05.17-18.22.58:621][444]BlueprintLog: New page: Compile EnemySpawnerBP
+[2017.05.17-18.22.59:181][445]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemy/EnemySpawnerBP" FILE="../../../../../../Users/ChanU/Desktop/2017_1Term/GEPrograming/TakeHomeExam/Content/Enemy/EnemySpawnerBP.uasset" SILENT=true
+[2017.05.17-18.22.59:191][445]LogSavePackage: Save=8.66ms
+[2017.05.17-18.22.59:191][445]LogSavePackage: Moving '../../../../../../Users/ChanU/Desktop/2017_1Term/GEPrograming/TakeHomeExam/Saved/EnemySpawnerBP0DF0FBE44BC5E781BF559687F63F4487.tmp' to '../../../../../../Users/ChanU/Desktop/2017_1Term/GEPrograming/TakeHomeExam/Content/Enemy/EnemySpawnerBP.uasset'
+[2017.05.17-18.22.59:193][445]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/ChanU/Desktop/2017_1Term/GEPrograming/TakeHomeExam/Content/Enemy/EnemySpawnerBP.uasset
+[2017.05.17-18.22.59:613][463]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemy/EnemySpawnerBP" FILE="../../../../../../Users/ChanU/Desktop/2017_1Term/GEPrograming/TakeHomeExam/Content/Enemy/EnemySpawnerBP.uasset" SILENT=true
+[2017.05.17-18.22.59:626][463]LogSavePackage: Save=8.36ms
+[2017.05.17-18.22.59:626][463]LogSavePackage: Moving '../../../../../../Users/ChanU/Desktop/2017_1Term/GEPrograming/TakeHomeExam/Saved/EnemySpawnerBP9A011FEA4942A877AFED6C84857E3C4B.tmp' to '../../../../../../Users/ChanU/Desktop/2017_1Term/GEPrograming/TakeHomeExam/Content/Enemy/EnemySpawnerBP.uasset'
+[2017.05.17-18.22.59:627][463]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/ChanU/Desktop/2017_1Term/GEPrograming/TakeHomeExam/Content/Enemy/EnemySpawnerBP.uasset
+[2017.05.17-18.24.05:795][ 56]LogSlate:Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2017.05.17-18.25.14:177][666]BlueprintLog: New page: Compile EnemySpawnerBP
+[2017.05.17-18.25.14:826][689]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemy/EnemySpawnerBP" FILE="../../../../../../Users/ChanU/Desktop/2017_1Term/GEPrograming/TakeHomeExam/Content/Enemy/EnemySpawnerBP.uasset" SILENT=true
+[2017.05.17-18.25.14:846][689]LogSavePackage: Save=15.94ms
+[2017.05.17-18.25.14:846][689]LogSavePackage: Moving '../../../../../../Users/ChanU/Desktop/2017_1Term/GEPrograming/TakeHomeExam/Saved/EnemySpawnerBP042E9C4D495808988125ECB2BFCC8210.tmp' to '../../../../../../Users/ChanU/Desktop/2017_1Term/GEPrograming/TakeHomeExam/Content/Enemy/EnemySpawnerBP.uasset'
+[2017.05.17-18.25.14:848][689]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/ChanU/Desktop/2017_1Term/GEPrograming/TakeHomeExam/Content/Enemy/EnemySpawnerBP.uasset
+[2017.05.17-18.25.42:651][321]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/NewMap" FILE="../../../../../../Users/ChanU/Desktop/2017_1Term/GEPrograming/TakeHomeExam/Content/Maps/NewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.05.17-18.25.42:799][321]LogSavePackage: Save=129.65ms
+[2017.05.17-18.25.42:799][321]LogSavePackage: Moving '../../../../../../Users/ChanU/Desktop/2017_1Term/GEPrograming/TakeHomeExam/Saved/NewMap5B66E6C0491BFCC38004B8852EB8965C.tmp' to '../../../../../../Users/ChanU/Desktop/2017_1Term/GEPrograming/TakeHomeExam/Content/Maps/NewMap.umap'
+[2017.05.17-18.25.42:802][321]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/ChanU/Desktop/2017_1Term/GEPrograming/TakeHomeExam/Content/Maps/NewMap.umap
