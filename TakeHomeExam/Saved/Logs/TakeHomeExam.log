@@ -624,3 +624,57 @@ Using Interface DamageInterface_C  must have a valid target or reference to self
 [2017.05.17-18.09.14:717][ 30]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 60) at 2017.05.18-03.09.14
 [2017.05.17-18.09.14:717][ 30]LogWorld: Bringing up level for play took: 0.001014
 [2017.05.17-18.09.14:719][ 30]PIE: Info Play in editor start time for /Temp/UEDPIE_0_Untitled_1 -0.134
+[2017.05.17-18.09.42:912][438]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Hero/HeroAnimBP" FILE="../../../../../../Users/ChanU/Desktop/2017_1Term/GEPrograming/TakeHomeExam/Content/Hero/HeroAnimBP.uasset" SILENT=true
+[2017.05.17-18.09.42:938][438]LogSavePackage: Save=22.26ms
+[2017.05.17-18.09.42:938][438]LogSavePackage: Moving '../../../../../../Users/ChanU/Desktop/2017_1Term/GEPrograming/TakeHomeExam/Saved/HeroAnimBPC4B8E4284958B22215F1549E9987BFFC.tmp' to '../../../../../../Users/ChanU/Desktop/2017_1Term/GEPrograming/TakeHomeExam/Content/Hero/HeroAnimBP.uasset'
+[2017.05.17-18.09.42:941][438]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/ChanU/Desktop/2017_1Term/GEPrograming/TakeHomeExam/Content/Hero/HeroAnimBP.uasset
+[2017.05.17-18.09.43:880][468]LogFileHelpers: Editor autosave (incl. sublevels) for '/Temp/Untitled_1' took 0.014
+[2017.05.17-18.09.43:882][468]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AnimationAssets/UE4_Mannequin/Mesh/UE4_Mannequin_Skeleton] ([1] browsable assets)...
+[2017.05.17-18.09.43:882][468]OBJ SavePackage: Finished generating thumbnails for package [/Game/AnimationAssets/UE4_Mannequin/Mesh/UE4_Mannequin_Skeleton]
+[2017.05.17-18.09.43:889][468]LogSavePackage: Save=3.01ms
+[2017.05.17-18.09.43:889][468]LogSavePackage: Moving '../../../../../../Users/ChanU/Desktop/2017_1Term/GEPrograming/TakeHomeExam/Saved/UE4_Mannequin_Skeleton_Auto15A9B6F65437F284D4671ABBD5F633A93.tmp' to '../../../../../../Users/ChanU/Desktop/2017_1Term/GEPrograming/TakeHomeExam/Saved/Autosaves/Game/AnimationAssets/UE4_Mannequin/Mesh/UE4_Mannequin_Skeleton_Auto1.uasset'
+[2017.05.17-18.09.43:891][468]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/ChanU/Desktop/2017_1Term/GEPrograming/TakeHomeExam/Saved/Autosaves/Game/AnimationAssets/UE4_Mannequin/Mesh/UE4_Mannequin_Skeleton_Auto1.uasset
+[2017.05.17-18.09.43:891][468]LogFileHelpers: Auto-saving content packages took 0.010
+[2017.05.17-18.09.48:060][594]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/NewMap" FILE="../../../../../../Users/ChanU/Desktop/2017_1Term/GEPrograming/TakeHomeExam/Content/Maps/NewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.05.17-18.09.48:106][594]LogSavePackage: Save=30.01ms
+[2017.05.17-18.09.48:106][594]LogSavePackage: Moving '../../../../../../Users/ChanU/Desktop/2017_1Term/GEPrograming/TakeHomeExam/Saved/NewMapB484E67142282CB6CA42A2BAF9CEE2C2.tmp' to '../../../../../../Users/ChanU/Desktop/2017_1Term/GEPrograming/TakeHomeExam/Content/Maps/NewMap.umap'
+[2017.05.17-18.09.48:107][594]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/ChanU/Desktop/2017_1Term/GEPrograming/TakeHomeExam/Content/Maps/NewMap.umap
+[2017.05.17-18.09.48:128][594]LogFileHelpers: Saving map 'NewMap' took 0.451
+[2017.05.17-18.10.16:036][ 86]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemy/M_UE4Man_Body_Inst" FILE="../../../../../../Users/ChanU/Desktop/2017_1Term/GEPrograming/TakeHomeExam/Content/Enemy/M_UE4Man_Body_Inst.uasset" SILENT=true
+[2017.05.17-18.10.16:049][ 86]LogSavePackage: Save=11.83ms
+[2017.05.17-18.10.16:049][ 86]LogSavePackage: Moving '../../../../../../Users/ChanU/Desktop/2017_1Term/GEPrograming/TakeHomeExam/Saved/M_UE4Man_Body_InstD860D211443F1124A3C34EAFFCFB65FA.tmp' to '../../../../../../Users/ChanU/Desktop/2017_1Term/GEPrograming/TakeHomeExam/Content/Enemy/M_UE4Man_Body_Inst.uasset'
+[2017.05.17-18.10.16:052][ 86]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/ChanU/Desktop/2017_1Term/GEPrograming/TakeHomeExam/Content/Enemy/M_UE4Man_Body_Inst.uasset
+[2017.05.17-18.10.16:144][ 86]LogTemp:Display: Removed shader map 0x0000000039793580 from material 0x00000000A395FB00
+[2017.05.17-18.10.16:144][ 86]LogTemp:Display: Removed shader map 0x0000000049F5AB00 from material 0x00000000A395FB00
+[2017.05.17-18.10.19:252][247]LogRenderer: Reallocating scene render targets to support 1468x868 NumSamples 1 (Frame:57835).
+[2017.05.17-18.10.26:865][684]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemy/M_UE4Man_Body_Inst" FILE="../../../../../../Users/ChanU/Desktop/2017_1Term/GEPrograming/TakeHomeExam/Content/Enemy/M_UE4Man_Body_Inst.uasset" SILENT=true
+[2017.05.17-18.10.26:909][684]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_UE4Man_Body_Inst, compiling. 
+[2017.05.17-18.10.26:913][684]LogTemp:Display: Added material ShaderMap 0x00000000284F1280 with Material 0x0000000029516800 to ShaderMapsBeingCompiled
+[2017.05.17-18.10.27:385][684]LogTemp:Display: Finished compile of shader map 0x00000000284F1280
+[2017.05.17-18.10.27:385][684]LogTemp:Display: Shader map FDebugViewModeMaterialProxy M_UE4Man_Body_Inst complete, GameThreadShaderMap 0x00000000284F1280, marking material FDebugViewModeMaterialProxy M_UE4Man_Body_Inst as finished
+[2017.05.17-18.10.27:385][684]LogTemp:Display: Marking material as finished 0x0000000029516800
+[2017.05.17-18.10.27:389][684]TextureStreamingBuild:Display: Compiling optional shaders took 0.509 seconds.
+[2017.05.17-18.10.27:428][684]LogSavePackage: Save=13.19ms
+[2017.05.17-18.10.27:428][684]LogSavePackage: Moving '../../../../../../Users/ChanU/Desktop/2017_1Term/GEPrograming/TakeHomeExam/Saved/M_UE4Man_Body_InstADF6577340D92B34C5CC5D84E178ECCC.tmp' to '../../../../../../Users/ChanU/Desktop/2017_1Term/GEPrograming/TakeHomeExam/Content/Enemy/M_UE4Man_Body_Inst.uasset'
+[2017.05.17-18.10.27:430][684]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/ChanU/Desktop/2017_1Term/GEPrograming/TakeHomeExam/Content/Enemy/M_UE4Man_Body_Inst.uasset
+[2017.05.17-18.10.49:061][745]BlueprintLog: New page: Compile EnemyBP
+[2017.05.17-18.10.49:868][757]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemy/EnemyBP" FILE="../../../../../../Users/ChanU/Desktop/2017_1Term/GEPrograming/TakeHomeExam/Content/Enemy/EnemyBP.uasset" SILENT=true
+[2017.05.17-18.10.49:892][757]LogSavePackage: Save=22.39ms
+[2017.05.17-18.10.49:892][757]LogSavePackage: Moving '../../../../../../Users/ChanU/Desktop/2017_1Term/GEPrograming/TakeHomeExam/Saved/EnemyBPCCB72D4D48BBBC5CF10AC4980E333EC1.tmp' to '../../../../../../Users/ChanU/Desktop/2017_1Term/GEPrograming/TakeHomeExam/Content/Enemy/EnemyBP.uasset'
+[2017.05.17-18.10.49:894][757]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/ChanU/Desktop/2017_1Term/GEPrograming/TakeHomeExam/Content/Enemy/EnemyBP.uasset
+[2017.05.17-18.11.10:372][953]BlueprintLog: New page: Compile EnemyBP
+[2017.05.17-18.11.10:798][958]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemy/EnemyBP" FILE="../../../../../../Users/ChanU/Desktop/2017_1Term/GEPrograming/TakeHomeExam/Content/Enemy/EnemyBP.uasset" SILENT=true
+[2017.05.17-18.11.10:826][958]LogSavePackage: Save=22.39ms
+[2017.05.17-18.11.10:826][958]LogSavePackage: Moving '../../../../../../Users/ChanU/Desktop/2017_1Term/GEPrograming/TakeHomeExam/Saved/EnemyBP2CE6E0834D7967D28F1C388287CE8BB0.tmp' to '../../../../../../Users/ChanU/Desktop/2017_1Term/GEPrograming/TakeHomeExam/Content/Enemy/EnemyBP.uasset'
+[2017.05.17-18.11.10:828][958]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/ChanU/Desktop/2017_1Term/GEPrograming/TakeHomeExam/Content/Enemy/EnemyBP.uasset
+[2017.05.17-18.11.12:616][ 64]LogSlate:Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2017.05.17-18.11.15:185][215]BlueprintLog: New page: Compile EnemyBP
+[2017.05.17-18.11.15:580][229]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemy/EnemyBP" FILE="../../../../../../Users/ChanU/Desktop/2017_1Term/GEPrograming/TakeHomeExam/Content/Enemy/EnemyBP.uasset" SILENT=true
+[2017.05.17-18.11.15:606][229]LogSavePackage: Save=22.68ms
+[2017.05.17-18.11.15:606][229]LogSavePackage: Moving '../../../../../../Users/ChanU/Desktop/2017_1Term/GEPrograming/TakeHomeExam/Saved/EnemyBP6F8763F94539EF757CC2F282CE9220BC.tmp' to '../../../../../../Users/ChanU/Desktop/2017_1Term/GEPrograming/TakeHomeExam/Content/Enemy/EnemyBP.uasset'
+[2017.05.17-18.11.15:609][229]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/ChanU/Desktop/2017_1Term/GEPrograming/TakeHomeExam/Content/Enemy/EnemyBP.uasset
+[2017.05.17-18.12.34:931][733]BlueprintLog: New page: Compile EnemyBP
+[2017.05.17-18.12.36:453][804]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemy/EnemyBP" FILE="../../../../../../Users/ChanU/Desktop/2017_1Term/GEPrograming/TakeHomeExam/Content/Enemy/EnemyBP.uasset" SILENT=true
+[2017.05.17-18.12.36:485][804]LogSavePackage: Save=28.70ms
+[2017.05.17-18.12.36:485][804]LogSavePackage: Moving '../../../../../../Users/ChanU/Desktop/2017_1Term/GEPrograming/TakeHomeExam/Saved/EnemyBPABFE64574D4A019D8A0F0187BA429618.tmp' to '../../../../../../Users/ChanU/Desktop/2017_1Term/GEPrograming/TakeHomeExam/Content/Enemy/EnemyBP.uasset'
+[2017.05.17-18.12.36:487][804]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/ChanU/Desktop/2017_1Term/GEPrograming/TakeHomeExam/Content/Enemy/EnemyBP.uasset
